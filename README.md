@@ -31,3 +31,9 @@ Analyzed Superstore sales data (5000+ records) to identify profit trends, top re
 ## 👩‍💻 Author
 Padala Mani Keerthi | Aspiring Data Analyst
 Skills: Excel, Power BI, Python, SQL
+
+## 📈 Dashboard Screenshot
+![Dashboard](dashboard.png)
+
+## 👩‍💻 Author
+Padala Mani Keerthi | Aspiring Data Analyst
